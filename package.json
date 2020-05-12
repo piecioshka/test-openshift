@@ -1,0 +1,12 @@
+{
+    "name": "openshift-example",
+    "version": "1.0.0",
+    "description": "OpenShift Serverless Example",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
