@@ -1,5 +1,5 @@
 {
-    "name": "openshift-example",
+    "name": "test-openshift",
     "version": "1.0.0",
     "description": "OpenShift Serverless Example",
     "license": "MIT",
