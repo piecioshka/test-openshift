@@ -2,6 +2,6 @@
 
 Live demo during Open Source Day #2 with Chris.
 
-## Demo 🚀
+## Preview 🚀
 
 Not available for restriction reasons.
