@@ -5,3 +5,7 @@ Live demo during Open Source Day #2 with Chris.
 ## Preview 🎉
 
 Not available for restriction reasons.
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
